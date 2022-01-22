@@ -4,3 +4,4 @@ eureka:
     fetch-registry: true
     service-url:
       defualtZone: http://localhost:8765/eureka/
+    instance: localhost
