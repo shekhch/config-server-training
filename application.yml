@@ -1,10 +1,10 @@
+department:
+  id: dep1234
 eureka:
   client:
     register-with-eureka: true
     fetch-registry: true
     service-url:
-      defualtZone: http://localhost:8765/eureka/
-    instance: localhost
-    
-department:
-  id: dep1234
+      defaultZone: http://localhost:8765/eureka/
+  instance:
+    hostname: localhost
