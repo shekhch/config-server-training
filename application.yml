@@ -1,5 +1,5 @@
 department:
-  id: dep1234
+  id: dep1234-new
 eureka:
   client:
     register-with-eureka: true
