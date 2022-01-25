@@ -1,5 +1,6 @@
 department:
-  id: javaRnd
+  name: javaRnd
+  
 eureka:
   client:
     register-with-eureka: true
