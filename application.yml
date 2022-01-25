@@ -1,5 +1,5 @@
 department:
-  name: javaRnd
+  name: javaResearch 
   
 eureka:
   client:
